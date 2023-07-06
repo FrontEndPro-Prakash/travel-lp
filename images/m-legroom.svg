@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_1508" data-name="Group 1508" transform="translate(-906 -533)">
+    <g id="Rectangle_604" data-name="Rectangle 604" transform="translate(906 533)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="50" height="50" stroke="none"/>
+      <rect x="0.5" y="0.5" width="49" height="49" fill="none"/>
+    </g>
+    <g id="seat_1_" data-name="seat (1)" transform="translate(910.314 527.209)">
+      <g id="Group_1498" data-name="Group 1498" transform="translate(0 10.689)">
+        <g id="Group_1497" data-name="Group 1497" transform="translate(0 0)">
+          <path id="Path_221" data-name="Path 221" d="M55.157,18.375a4.221,4.221,0,1,0-1.046-5.884A4.226,4.226,0,0,0,55.157,18.375Z" transform="translate(-48.069 -10.689)" fill="none" stroke="#9b9898" stroke-width="1.5"/>
+          <path id="Path_222" data-name="Path 222" d="M8.377,137.3,4.226,117.312H0l4.215,20.61a10.556,10.556,0,0,0,10.437,8.969H29.579v-4.226H14.641A6.339,6.339,0,0,1,8.377,137.3Z" transform="translate(0 -106.753)" fill="none" stroke="#9b9898" stroke-width="1.5"/>
+          <path id="Path_223" data-name="Path 223" d="M97.256,134.232H86.946L84.78,125.57c3.328,1.88,6.93,3.264,10.881,2.578v-4.49a13,13,0,0,1-9.909-2.63l-3.475-2.7a4.9,4.9,0,0,0-3.708-.93l-.053.011a4.755,4.755,0,0,0-3.866,5.5l2.863,12.507a6.338,6.338,0,0,0,6.222,5.155H98.207l8.071,6.338,3.169-3.169Z" transform="translate(-67.192 -106.771)" fill="none" stroke="#9b9898" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
